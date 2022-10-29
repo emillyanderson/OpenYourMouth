@@ -1,2 +1,6 @@
 # Vim swap files
 *.swp
+
+# Outputs from builds.
+*.rendered.md
+*.pdf
