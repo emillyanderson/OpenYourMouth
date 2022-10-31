@@ -36,7 +36,7 @@ You can use any oven proof container, but I would higly recommend using a spring
 4. Add crushed tomatoes and let simmer for 5 minutes. 
 
 #### Filling
-1. Heat olive i\oil in a large pot on medium heat.
+1. Heat olive oil in a large pot on medium heat.
 2. Fry onion for 5 minutes.
 3. Add jalapenos, garlic, cumin, salt and pepper and fry for a minute. 
 4. Add beans, sweet corn and shallots.  
